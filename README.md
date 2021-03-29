@@ -1,3 +1,3 @@
 # madfarcode.github.io
 
-Ceci n'est toujours pas un vérutabel projet !
+Ceci n'est toujours pas un véritable projet !
